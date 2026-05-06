@@ -4,6 +4,8 @@ The raw data contained 3 million Amazon purchase records with 1,800 distinct pro
 
 The dashboard allows users to track revenue trends month-over-month, quarter-over-quarter, and same-period prior year — benchmarked against rolling historical averages which substitutes for budget targets — with breakdowns by geography, purchase behavior, and customer demographics.
 
+Unfortunately, the full dataset and pbix files are both too large for github. Please accept the demonstrated sample data and dashboard visuals in substitution.
+
 Stack: Python [pandas, pandasql], Power BI, Excel
 Data: The full dataset is not included due to size. It is available from:
 Berke, A., Calacci, D., Mahari, R. et al. Open e-commerce 1.0, five years of crowdsourced U.S. Amazon purchase histories with user demographics. Sci Data 11, 491 (2024). https://doi.org/10.1038/s41597-024-03329-6
